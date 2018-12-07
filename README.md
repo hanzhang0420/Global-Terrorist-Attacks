@@ -1,7 +1,7 @@
 # Global-Terrorist-Attacks
 Multi-Class Classification Problem 
 
-__Data__: [GTD](https://www.start.umd.edu/gtd/) (Golbal Terrorism Database) is an open-source data base, containing information about over 180,000 terrorist attacks that were recorded from 1970 to 2017, including features such as date/time, location, attack type, responsible group (if identified), target types, weapon types, and fatalities/injuries.  
+__Data__: [GTD](https://www.start.umd.edu/gtd/) (Global Terrorism Database) is an open-source data base, containing information about over 180,000 terrorist attacks that were recorded from 1970 to 2017, including features such as date/time, location, attack type, responsible group (if identified), target types, weapon types, and fatalities/injuries.  
 
 __Motivation & Goal__: Prediction of terrorist group after an attack is one of the
 most important steps for counter terrorism. As soon as we are able to find the involved group name, we will be able to make strategies to catch the culprits. 
